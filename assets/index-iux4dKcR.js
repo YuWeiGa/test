@@ -1,0 +1,1 @@
+import{v as t,ay as r,ax as a,x as o,y as s}from"./vue-DzW8nZN5.js";const m=t({__name:"index",setup(n){const e=a();return r().replace({path:`/${e.params.path}`,query:e.query}),(c,p)=>(s(),o("div"))}});export{m as default};
